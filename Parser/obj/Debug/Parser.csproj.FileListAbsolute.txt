@@ -1,0 +1,7 @@
+F:\fourth\Parser\obj\Debug\Parser.csproj.CoreCompileInputs.cache
+F:\fourth\Parser\bin\Debug\Parser.exe.config
+F:\fourth\Parser\bin\Debug\Parser.exe
+F:\fourth\Parser\bin\Debug\Parser.pdb
+F:\fourth\Parser\obj\Debug\Parser.csprojAssemblyReference.cache
+F:\fourth\Parser\obj\Debug\Parser.exe
+F:\fourth\Parser\obj\Debug\Parser.pdb

@@ -1,0 +1,13 @@
+F:\fourth\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+F:\fourth\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\fourth\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
+F:\fourth\DataAccessLayer\bin\Debug\DataAccessLayer.exe
+F:\fourth\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\fourth\DataAccessLayer\bin\Debug\OptionsManager.exe
+F:\fourth\DataAccessLayer\bin\Debug\Parser.exe
+F:\fourth\DataAccessLayer\bin\Debug\OptionsManager.pdb
+F:\fourth\DataAccessLayer\bin\Debug\OptionsManager.exe.config
+F:\fourth\DataAccessLayer\bin\Debug\Parser.pdb
+F:\fourth\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+F:\fourth\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+F:\fourth\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

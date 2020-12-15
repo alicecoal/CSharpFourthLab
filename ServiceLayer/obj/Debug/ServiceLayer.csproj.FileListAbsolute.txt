@@ -1,0 +1,16 @@
+F:\fourth\ServiceLayer\bin\Debug\ServiceLayer.exe.config
+F:\fourth\ServiceLayer\bin\Debug\ServiceLayer.exe
+F:\fourth\ServiceLayer\bin\Debug\ServiceLayer.pdb
+F:\fourth\ServiceLayer\bin\Debug\DataAccessLayer.exe
+F:\fourth\ServiceLayer\bin\Debug\OptionsManager.exe
+F:\fourth\ServiceLayer\bin\Debug\Parser.exe
+F:\fourth\ServiceLayer\bin\Debug\DataAccessLayer.pdb
+F:\fourth\ServiceLayer\bin\Debug\DataAccessLayer.exe.config
+F:\fourth\ServiceLayer\bin\Debug\OptionsManager.pdb
+F:\fourth\ServiceLayer\bin\Debug\OptionsManager.exe.config
+F:\fourth\ServiceLayer\bin\Debug\Parser.pdb
+F:\fourth\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+F:\fourth\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+F:\fourth\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+F:\fourth\ServiceLayer\obj\Debug\ServiceLayer.exe
+F:\fourth\ServiceLayer\obj\Debug\ServiceLayer.pdb

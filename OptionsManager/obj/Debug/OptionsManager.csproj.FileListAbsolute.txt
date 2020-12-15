@@ -1,0 +1,10 @@
+F:\fourth\OptionsManager\obj\Debug\OptionsManager.csprojAssemblyReference.cache
+F:\fourth\OptionsManager\obj\Debug\OptionsManager.csproj.CoreCompileInputs.cache
+F:\fourth\OptionsManager\bin\Debug\OptionsManager.exe.config
+F:\fourth\OptionsManager\bin\Debug\OptionsManager.exe
+F:\fourth\OptionsManager\bin\Debug\OptionsManager.pdb
+F:\fourth\OptionsManager\bin\Debug\Parser.exe
+F:\fourth\OptionsManager\bin\Debug\Parser.pdb
+F:\fourth\OptionsManager\obj\Debug\OptionsManager.csproj.CopyComplete
+F:\fourth\OptionsManager\obj\Debug\OptionsManager.exe
+F:\fourth\OptionsManager\obj\Debug\OptionsManager.pdb

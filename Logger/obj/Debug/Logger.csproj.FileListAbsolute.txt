@@ -1,0 +1,16 @@
+F:\fourth\Logger\bin\Debug\Logger.exe.config
+F:\fourth\Logger\bin\Debug\Logger.exe
+F:\fourth\Logger\bin\Debug\Logger.pdb
+F:\fourth\Logger\bin\Debug\DataAccessLayer.exe
+F:\fourth\Logger\bin\Debug\OptionsManager.exe
+F:\fourth\Logger\bin\Debug\Parser.exe
+F:\fourth\Logger\bin\Debug\DataAccessLayer.pdb
+F:\fourth\Logger\bin\Debug\DataAccessLayer.exe.config
+F:\fourth\Logger\bin\Debug\OptionsManager.pdb
+F:\fourth\Logger\bin\Debug\OptionsManager.exe.config
+F:\fourth\Logger\bin\Debug\Parser.pdb
+F:\fourth\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+F:\fourth\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+F:\fourth\Logger\obj\Debug\Logger.csproj.CopyComplete
+F:\fourth\Logger\obj\Debug\Logger.exe
+F:\fourth\Logger\obj\Debug\Logger.pdb
