@@ -1,39 +1,56 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
-using System.IO.Compression;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO.Compression;
+using System.IO;
 
 namespace FileWatcher
 {
     class Archiver
     {
-        public static void Compress(string sourceFile, string compressedFile)
+        public static void Compress(string path, string cpath, ArchiveOptions archiveOptions)
         {
-            using (FileStream sourceStream = new FileStream(sourceFile, FileMode.OpenOrCreate))
+            try
             {
-                using (FileStream targetStream = File.Create(compressedFile))
+                using (FileStream sourceStream = new FileStream(path, FileMode.OpenOrCreate))
                 {
-                    using (GZipStream compressionStream = new GZipStream(targetStream, CompressionMode.Compress))
+                    using (FileStream targetStream = File.Create(cpath))
                     {
-                        sourceStream.CopyTo(compressionStream);
+                        using (GZipStream compressionStream = new GZipStream(targetStream, archiveOptions.CompressionLevel))
+                        {
+                            sourceStream.CopyTo(compressionStream);
+                        }
                     }
                 }
             }
-        }
-        public static void Decompress(string compressedFile, string targetFile)
-        {
-            using (FileStream sourceStream = new FileStream(compressedFile, FileMode.OpenOrCreate))
+            catch (Exception ex)
             {
-                using (FileStream targetStream = File.Create(targetFile))
+                Console.WriteLine(ex);
+                throw;
+            }
+        }
+
+        public static void Decompress(string cpath, string path)
+        {
+            try
+            {
+                using (FileStream sourceStream = new FileStream(cpath, FileMode.OpenOrCreate))
                 {
-                    using (GZipStream decompressionStream = new GZipStream(sourceStream, CompressionMode.Decompress))
+                    using (FileStream targetStream = File.Create(path))
                     {
-                        decompressionStream.CopyTo(targetStream);
+                        using (GZipStream decompressionStream = new GZipStream(sourceStream, CompressionMode.Decompress))
+                        {
+                            decompressionStream.CopyTo(targetStream);
+                        }
                     }
                 }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex);
+                throw;
             }
         }
     }

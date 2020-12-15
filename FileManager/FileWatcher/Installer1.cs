@@ -18,7 +18,7 @@ namespace FileWatcher
 
             processInstaller.Account = ServiceAccount.LocalSystem;
             serviceInstaller.StartType = ServiceStartMode.Manual;
-            serviceInstaller.ServiceName = "Service1";
+            serviceInstaller.ServiceName = "FileWatcher";
             Installers.Add(processInstaller);
             Installers.Add(serviceInstaller);
         }

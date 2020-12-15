@@ -8,7 +8,7 @@ namespace DataAccessLayer.Options
 {
     public class SendingOptions
     {
-        public string SourceDir { get; set; } = @"F:\fourth\SDir";
+        public string SourceDir { get; set; } = @"F:\fourth\FileManager\SDir";
 
         public SendingOptions() { }
     }

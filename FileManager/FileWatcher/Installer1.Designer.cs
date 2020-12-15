@@ -1,5 +1,4 @@
-﻿
-namespace FileWatcher
+﻿namespace FileWatcher
 {
     partial class Installer1
     {
@@ -20,17 +19,16 @@ namespace FileWatcher
             }
             base.Dispose(disposing);
         }
-
+        private void InitializeComponent()
+        {
+            components = new System.ComponentModel.Container();
+        }
         #region Код, автоматически созданный конструктором компонентов
 
         /// <summary>
         /// Требуемый метод для поддержки конструктора — не изменяйте 
         /// содержимое этого метода с помощью редактора кода.
         /// </summary>
-        private void InitializeComponent()
-        {
-            components = new System.ComponentModel.Container();
-        }
 
         #endregion
     }

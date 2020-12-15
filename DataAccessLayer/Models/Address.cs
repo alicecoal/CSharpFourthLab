@@ -14,7 +14,7 @@ namespace DataAccessLayer.Models
         public string City { get; set; }
         public int StateProvinceID { get; set; }
         public string PostalCode { get; set; }
-        public Guid rowguid { get; set; }
+        //public Guid rowguid { get; set; }
         public DateTime ModifiedDate { get; set; }
     }
 }

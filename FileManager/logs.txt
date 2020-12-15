@@ -1,0 +1,35 @@
+[02:07:03 16.12.2020] - Файл 'F:\fourth\FileManager\FileWatcher\bin\Debug\appsettings.json' не найден.
+[02:07:03 16.12.2020] - Файл 'F:\fourth\FileManager\FileWatcher\bin\Debug\config.xml' не найден.
+[02:07:03 16.12.2020] - Default options is used.
+[02:07:03 16.12.2020] - Default configuration
+[02:07:04 16.12.2020] - Файл 'F:\fourth\FileManager\FileWatcher\bin\Debug\appsettings.json' не найден.
+[02:07:04 16.12.2020] - Файл 'F:\fourth\FileManager\FileWatcher\bin\Debug\config.xml' не найден.
+[02:07:04 16.12.2020] - Default options is used.
+[02:07:04 16.12.2020] - Default configuration
+[02:07:04 16.12.2020] - Cервис запущен
+[02:13:26 16.12.2020] - Default configuration
+[02:13:31 16.12.2020] - Default configuration
+[02:18:37 16.12.2020] - Cервис остановлен
+[02:18:55 16.12.2020] - Файл 'F:\fourth\FileManager\FileWatcher\bin\Debug\appsettings.json' не найден.
+[02:18:55 16.12.2020] - Файл 'F:\fourth\FileManager\FileWatcher\bin\Debug\config.xml' не найден.
+[02:18:55 16.12.2020] - Default options is used.
+[02:18:55 16.12.2020] - Default configuration
+[02:18:55 16.12.2020] - Файл 'F:\fourth\FileManager\FileWatcher\bin\Debug\appsettings.json' не найден.
+[02:18:55 16.12.2020] - Файл 'F:\fourth\FileManager\FileWatcher\bin\Debug\config.xml' не найден.
+[02:18:55 16.12.2020] - Default options is used.
+[02:18:55 16.12.2020] - Default configuration
+[02:18:55 16.12.2020] - Cервис запущен
+[02:19:08 16.12.2020] - Default configuration
+[02:19:08 16.12.2020] - Default configuration
+[02:22:23 16.12.2020] - Cервис остановлен
+[02:24:27 16.12.2020] - Файл 'F:\fourth\FileManager\FileWatcher\bin\Debug\appsettings.json' не найден.
+[02:24:27 16.12.2020] - Файл 'F:\fourth\FileManager\FileWatcher\bin\Debug\config.xml' не найден.
+[02:24:27 16.12.2020] - Default options is used.
+[02:24:27 16.12.2020] - Default configuration
+[02:24:27 16.12.2020] - Файл 'F:\fourth\FileManager\FileWatcher\bin\Debug\appsettings.json' не найден.
+[02:24:27 16.12.2020] - Файл 'F:\fourth\FileManager\FileWatcher\bin\Debug\config.xml' не найден.
+[02:24:27 16.12.2020] - Default options is used.
+[02:24:27 16.12.2020] - Default configuration
+[02:24:27 16.12.2020] - Cервис запущен
+[02:25:08 16.12.2020] - Default configuration
+[02:25:08 16.12.2020] - Default configuration

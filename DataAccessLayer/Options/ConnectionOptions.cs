@@ -8,7 +8,7 @@ namespace DataAccessLayer.Options
 {
     public class ConnectionOptions
     {
-        public string DataSource { get; set; } = @".\SQLEXPRESS";
+        public string DataSource { get; set; } = @".\";
         public string InitialCatalog { get; set; } = "AdventureWorks2017";
         public bool IntegratedSecurity { get; set; } = true;
 

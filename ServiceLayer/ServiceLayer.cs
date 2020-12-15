@@ -18,10 +18,11 @@ namespace ServiceLayer
 
         public PersonData GetPersonInfo()
         {
-            List<Person> persons = DAL.GetListItems<Person>("GetPersons");
-            List<Address> addresses = DAL.GetListItems<Address>("GetAddresses");
+            List<Person> persons = DAL.GetListItems<Person>("GetPerson");
+            List<Address> addresses = new List<Address>();
+                //= DAL.GetListItems<Address>("GetAddress");
             List<CountryRegion> countryRegions = DAL.GetListItems<CountryRegion>("GetCountryRegions");
-            List<EmailAddress> emailAddresses = DAL.GetListItems<EmailAddress>("GetEmailAddresses");
+            List<EmailAddress1> emailAddresses = DAL.GetListItems<EmailAddress1>("GetEmailAddresses");
             List<PersonPhone> personPhones = DAL.GetListItems<PersonPhone>("GetPersonPhones");
             return new PersonData(persons, addresses, countryRegions, emailAddresses, personPhones);
         }

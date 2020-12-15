@@ -1,5 +1,4 @@
-﻿
-namespace FileWatcher
+﻿namespace FileWatcher
 {
     partial class Service1
     {
@@ -20,7 +19,6 @@ namespace FileWatcher
             }
             base.Dispose(disposing);
         }
-
         #region Код, автоматически созданный конструктором компонентов
 
         /// <summary> 
